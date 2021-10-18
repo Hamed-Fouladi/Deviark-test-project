@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "none index",
+    "start": "node index",
     "dev": "nodemon index"
   },
   "author": "Hamed Fouladi",
